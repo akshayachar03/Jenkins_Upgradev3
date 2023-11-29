@@ -43,7 +43,7 @@ public class TestGreeter {
   }
 
  @Test
-  public void greetShouldIncludeGreetingPhrase() {
+  public void Intentionally_Failed() {
     assertTrue(false);
   }
 }
